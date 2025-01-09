@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+  <valve_name type="string">Genmitsu3018-PROVer V2</valve_name>
+  
+  <!-- protocol name: ORCA or multiplexed RNA FISH -->
+  <protocol_name type="string">None</protocol_name>
+
+  <imagingtime type="float">0</imagingtime><!-- duration of image aquisition [sec] -->
+  <hybnum type="float">96</hybnum><!-- number of hybridization cycles -->
+  <FOVnum type="float">72</FOVnum><!-- number of FOVs -->
+
+  <!-- notes -->
+  <!-- ***************************************************************** -->
+
+</settings>

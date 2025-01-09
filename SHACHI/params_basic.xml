@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+  <!-- Valve parameters -->
+  <valves_com_port type="string">COM8</valves_com_port> 
+  <!-- Pump parameters -->
+  <pump_com_port type="string">COM7</pump_com_port>
+  <pump_ID type="int">30</pump_ID>
+  <!-- coordinate parameters -->
+  <coordinatefile type="string">./96wellpos.txt</coordinatefile>
+  <WASHX type="string">X100</WASHX>
+  <BLEACHX type="string">X100</BLEACHX>
+  <IMAGINGX type="string">X100</IMAGINGX>
+  <STRIPPINGX type="string">X155</STRIPPINGX>
+  <WASHY type="string">Y38</WASHY>
+  <BLEACHY type="string">Y73</BLEACHY>
+  <IMAGINGY type="string">Y110</IMAGINGY>
+  <STRIPPINGY type="string">Y38</STRIPPINGY>
+  <!-- protocol parameters -->
+  <FLOWTIME type="float">60</FLOWTIME><!-- [sec] -->
+  <FLOWSPEED type="float">42</FLOWSPEED><!-- [rpm] -->
+
+</settings>
+
+

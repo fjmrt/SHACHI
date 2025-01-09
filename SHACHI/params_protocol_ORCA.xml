@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+
+  <!-- protocol parameters for ORCA -->
+  <hybtime type="float">900</hybtime><!-- [sec] -->
+  <waitingtime_wash type="float">30</waitingtime_wash><!-- [sec] -->
+  <waitingtime_bleach type="float">1</waitingtime_bleach><!--  [sec] -->
+  <waitingtime_imaging type="float">300</waitingtime_imaging><!-- [sec] -->
+  <waitingtime_stripping type="float">0</waitingtime_stripping><!-- [sec] -->
+
+</settings>
+
+
